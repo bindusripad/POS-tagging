@@ -4,4 +4,6 @@
  
  The techniques used are:
  
- 
+Build the vanilla Viterbi based POS tagger
+Modify Viterbi Heuristic Algorithm to consider only transition probability for UNKNOWN words
+Modify Viterbi Heuristic Algorithm to tag UNKNOWN words using rule-based approach
